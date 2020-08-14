@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
 
-@font-face {
+/* @font-face {
     font-family: AlegreyaSans;
     src: url(fonts/Alegreya_Sans/AlegreyaSans-ExtraBold.ttf);
 }
@@ -9,7 +9,7 @@
 @font-face {
     font-family: Hussar;
     src: url(fonts/hussar-ekologiczny-font/HussarEkologiczne1-4Mj6.otf);
-}
+} */
 
 
 
@@ -18,7 +18,7 @@ body {
     background-repeat: no-repeat;
 }
 
-#title {
+/* #title {
     text-align: center;
     font-size: 7rem;
     padding-top: 1rem;
@@ -31,7 +31,7 @@ body {
 
 #brainers-title {
     font-family: AlegreyaSans;
-}
+} */
 
 #coming-soon {
     font-family: 'Verdana', sans-serif;
@@ -48,7 +48,7 @@ body {
 .questions {
     font-family: 'Verdana', sans-serif;
     text-align: center;
-    font-size: 3rem;
+    font-size: 1rem;
     font-weight: lighter;
     color: black;
     display: flex;
